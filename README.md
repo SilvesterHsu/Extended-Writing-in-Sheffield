@@ -8,13 +8,15 @@ One of the tasks is to finish an extended writing with a topic of Artificial Int
 
 **Describe** some recent developments in Artificial Intelligence (AI) and **evaluate** some of the ways of testing its reliability. 
 
-## Readings
+## Readings Materials
 
-### Key Reading:
+### Key Readings:
 Stone, P. and Study Panel (2016). Artificial Intelligence and Life in 2030. One Hundred Year Study on Artificial Intelligence: Report of the 2015-2016 Study Panel, Stanford University, Stanford, CA.
 
 ### Secondary Reading:
 Mueller S. T. (2008). Is the Turing Test still relevant? A plan for developing the cognitive decathlon to test intelligent embodied behavior. In Proceedings of 19th Midwest Artificial Intelligence and Cognitive Science Conference (MAICS) Cincinnati, OH. Google Scholar.
 
+## Writing Plan
+Alpha: [Artificial Intelligence - Alpha](https://github.com/SilvesterHsu/Extended-Writing-in-Sheffield/blob/master/Plan.md)
 
-
+Beta: [Artificial Intelligence - Beta](https://github.com/SilvesterHsu/Extended-Writing-in-Sheffield/blob/Dissertation/Plan.md)
