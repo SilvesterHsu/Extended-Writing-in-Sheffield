@@ -10,13 +10,9 @@ of the ways of testing its reliability."
 
 #### Introduction(150 words)
 
-*   General background
-    *   Introduction of AI
-        *   Definition of AI[1,2,3]
-    *   Introduction of AI test system
-        *   The definition of AI test system[4]
-        *   The necessity of AI system testing[5]
-
+*   General background: definition of AI[1,2,3]
+*   Recent
+    development: Supervised Learning, Deep Learning 
 *   Thesis statement & Purpose
 *   Article structure description (outline)
 
@@ -25,18 +21,20 @@ of the ways of testing its reliability."
 *   The recent developments in AI
     *   Supervised Learning:  AI learns to manipulate tools using Task-Oriented Grasping Network[6]
     *   Deep Learning: Tesla Autopilot using Convolutional Neural Network[9]
-*   AI test systems
-    *   Different AI test systems
-        *   Turing Test[4]: but only focus on text, not comprehensive
-        *   Total Turing Test[7]
-        *   Cognitive Decathlon Test[8]
-    *   Evaluation of AI reliability
-
-
-*   Conclusion
-
-    *   Although the Turing test is important, it does not meet today's needs.
-    *   A complete AI test can't be completed in the first stage yet, but it provides direction for the future AI trend and lays the foundation for more systematic and advanced testing.
+*   Manual
+    Evaluation
+    *   Traditional
+        human evaluation
+    *   Advanced
+        human assessments
+*   Strength: more robust
+    *   Weakness: costly(time&finance)
+*   Automatic
+    evaluation methods
+    *   Lexical
+        similarity methods
+    *   Deep
+        learning method
 
 ### References
 
