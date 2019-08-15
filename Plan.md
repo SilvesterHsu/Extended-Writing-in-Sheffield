@@ -11,17 +11,21 @@ of the ways of testing its reliability."
 #### Introduction(150 words)
 
 *   General background: definition of AI
-
 *   Recent
-    development: [TODO]()
-
+    development: 
+*   Stock market prediction
+    *   Target tracking
+    *   Tomato quality grading
 *   Thesis statement & Purpose
-
 *   Article structure description (outline)
 
 #### Body (1200~1500 words)
 
-*   The recent developments in AI[TODO]()
+*   The recent developments in AI
+
+    *   Stock market prediction
+    *   Target tracking
+    *   Tomato quality grading
 
 *   Evaluate the ways testing AI reliability(Evaluation Metrics)
 
