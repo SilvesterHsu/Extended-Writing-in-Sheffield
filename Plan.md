@@ -2,46 +2,42 @@
 
 ### Title
 
-"Is the Turing test enough? Is AI testing really necessary?"
+"**Describe**
+some recent developments in Artificial Intelligence (AI) and **evaluate** some
+of the ways of testing its reliability."
 
 ### Content
 
-#### Introduction
+#### Introduction(150 words)
 
-##### Part 1 (200 words)
-
-*   General background
-*   Thesis statement & Purpose & goal
+*   General background: definition of AI
+*   Recent
+    development: 
+*   Stock market prediction
+    *   Target tracking
+    *   Tomato quality grading
+*   Thesis statement & Purpose
 *   Article structure description (outline)
 
-##### Part 2 (350~500 words)
+#### Body (1200~1500 words)
 
-*   Introduction to AI developments
-    *   Definition of AI
-    *   History of AI development
-    *   Recent cutting-edge technology of AI
-*   Introduction to Turing test
-    *   Definition of Turing test
-    *   History of Turing test & different versions
-#### Body (800 words)
+*   The recent developments in AI
+
+    *   Stock market prediction
+    *   Target tracking
+    *   Tomato quality grading
+
+*   Evaluate the ways testing AI reliability(Evaluation Metrics)
+
+	[Reliability: the quality of being able to work or operate for long periods without breaking down or needing attention](https://www.oxfordlearnersdictionaries.com/definition/english/reliability?q=reliability)
+	
+	*   Threshold Types of Discrimination Metrics
+	*   Mean Square Error
+	*   Area under the ROC Curve(AUC)
+
+#### Conclusion
+
+*   AUC is the relatively best way to evaluate the stability of AI, but it is not perfect. The AI field needs to develop new evaluation metrics.
 
 
-*   Is the Turing test enough?
-
-    *   A general statement of the Turing test
-    *   Strengths & Weaknesses
-    *   Different methods of testing artificial systems based on Turing test
-
-        *   The Cognitive Decathlon
-        *   The staged developmental test 
-        *   The intelligence tests for robots
-        *   The universal anytime intelligence tests
-*   Is AI testing really necessary?
-
-    *   AI test can't test intelligence, only test the resemblance between intelligent system and human.
-    *   AI testing provides a goal for AI development.
-    *   The progress of AI testing is also the improvement of human needs.
-*   Conclusion
-
-    *   Although the Turing test is important, it does not meet today's needs.
-    *   A complete AI test can't be completed in the first stage, but it provides direction for the future AI trend and lays the foundation for more systematic and advanced testing.
+### References
